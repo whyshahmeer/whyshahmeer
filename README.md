@@ -18,7 +18,6 @@
 > Name: Muhammad Shahmeer
 > Role: Software Engineering Student
 > Current Focus: Python + Artificial Intelligence
-> Goal: Becoming a Future AI Engineer
 ```
 
 <br>
@@ -34,7 +33,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+
+  <a href="https://linkedin.com/in/shahmeer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
@@ -42,9 +42,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
 </p>
 
 ---
