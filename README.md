@@ -1,38 +1,50 @@
 <h1 align="center">Muhammad Shahmeer ⚡</h1>
 
 <h3 align="center">
-Code. Create. Conquer.
+  Software Engineer • AI Learner
 </h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Conquer.;Building+Modern+Digital+Experiences.;Future+AI+Engineer.;Always+Learning+Something+New." />
+</p>
 
+---
 
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" height="190" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ## 🧠 About Me
 
 ```txt
 > Name: Muhammad Shahmeer
-> Passion: Software Engineering & AI
-> Focus: Building modern digital experiences
-> Currently Learning: Python & Artificial Intelligence
-> Goal: Becoming a top-tier AI Engineer
-> Mindset: Stay disciplined. Stay dangerous.
-````
+> Role: Software Engineering Student
+> Current Focus: Python + Artificial Intelligence
+> Goal: Becoming a Future AI Engineer
+```
 
-###
+<br>
+
+## ⚡ Tech Journey
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,androidstudio" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<p align="left">
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
   <a href="mailto:muhammadshahmeerofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-</div>
+
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+---
