@@ -36,11 +36,3 @@ Code. Create. Conquer.
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </div>
-
-###
-
-## 💀 Developer Quote
-
-```txt
-"While others scroll, I build."
-```
