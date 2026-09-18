@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/whyshahmeer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-  <a href="mailto:muhammadshahmeerofficial@gmail.com">
+  <a href="mailto:muhammadshahmeerofiicial@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
 </p>
