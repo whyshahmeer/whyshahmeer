@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student • Aspiring AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Conquer.;Building+Modern+Digital+Experiences.;Future+AI+Engineer.;Always+Learning+Something+New." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code.+Create.+Conquer.;Future+AI+Engineer.;Always+Learning+Something+New." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🧠 About Me
 
-> Name: Muhammad Shahmeer
-> Role: Software Engineering Student (SE'27)
-> Current Focus: Python, Data Science & Deep Learning
-> Goal: Become a Skilled AI Engineer
-> Mindset: Steady progress. Real skills. Real work.
+- **Name:** Muhammad Shahmeer
+- **Role:** Software Engineering Student (SE'27)
+- **Current Focus:** Python, Data Science & Deep Learning
+- **Goal:** Become a Skilled AI Engineer
+- **Mindset:** Steady progress. Real skills. Real work.
 
 - 🚀 **Roadmap Progress**
   - ✅ **Done:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Linear Algebra
