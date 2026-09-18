@@ -15,7 +15,6 @@
 
 > Name: Muhammad Shahmeer
 > Role: Software Engineering Student (SE'27)
-> Past: Android Developer (Java + XML) — moved on to AI
 > Current Focus: Python, Data Science & Deep Learning
 > Goal: Become a Skilled AI Engineer
 > Mindset: Steady progress. Real skills. Real work.
