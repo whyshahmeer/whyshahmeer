@@ -56,13 +56,10 @@
   <a href="https://linkedin.com/in/whyshahmeer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-  <a href="mailto:muhammadshahmeerofiicial@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
-  </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Still learning. Still improving."</i>
+  <b>
+  <i>"Still learning. Still improving."</i> 
+  </b>  
 </p>
