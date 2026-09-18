@@ -52,14 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whyshahmeer&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyshahmeer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whyshahmeer&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="left">
