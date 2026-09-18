@@ -11,12 +11,11 @@
   <img src="https://img.shields.io/github/followers/whyshahmeer?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
----
-
 ## 🧠 About Me
 
 > Name: Muhammad Shahmeer
 > Role: Software Engineering Student (SE'27)
+> Past: Android Developer (Java + XML) — moved on to AI
 > Current Focus: Python, Data Science & Deep Learning
 > Goal: Become a Skilled AI Engineer
 > Mindset: Steady progress. Real skills. Real work.
@@ -48,8 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyshahmeer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whyshahmeer&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whyshahmeer&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect With Me
